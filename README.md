@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has gave me the following deliverables to
 -	Data Source: election_results.csv
 -	Software: Python 3.8.8, Visual Studio Code, 1.59.0
 
-## Summary
+## Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 
@@ -53,5 +53,7 @@ Some of the steps taken include:
 -	Reading files
 -	Populating a txt file
 
-## Challenge Summary
-Diana DeGette won by a landslide receiving ~50% of the total votes more than the next candidate. 
+## Summary
+This automation project could provide a quick time saving and cost saving method to audit elections in the future. It is easily scalable in include millions of votes making it a viable option over excel. This scipt could be modified in a couple ways.
+1. The cvs file could have an additional column for precinct. With this additional data, we could create scripts to create a txt file for all the precincts or have an inputbox that would allow for narrowing down to a specific precinct.
+2. For larger elections with more candidates, we could come up with a ranking system to print out the candidates in decending order of total number of votes. 
