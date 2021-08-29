@@ -27,9 +27,10 @@ The analysis of the election show that:
   - Denver county received 82.8% of the ballots and 306,055 number of ballots.
   - Arapahoe county received 6.7% of the ballots and 24,801 number of ballots.
 
-- The County with the most votes was Denver
+- The county with the most votes was:
+  - Denver
 
-- The Candidates were:
+- The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
